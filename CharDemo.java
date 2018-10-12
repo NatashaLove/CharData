@@ -7,5 +7,4 @@ public class CharDemo {
 		// def - followed by a backspace escape sequence (\b), so the f is overridden by ghi.
 		
 	}
-	
 }
